@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 #### Professional and Academic Status
 
-:infinity: Software Engineer Intern at Ignite Solutions :cloud:
+:infinity: Tech Analyst at IQVIA :cloud:
 
 :globe\_with\_meridians: I am pursuing a Bachelor of Technology program in Electronics and Telecommunication Engineering at MIT Academy of Engineering in India.
 <!--
