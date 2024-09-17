@@ -51,8 +51,8 @@ Welcome to my GitHub profile!
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="MReis-FreeBSD" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/freebsd.svg"> -->
   <img align="center" alt="MReis-Linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="MReis-Linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="MReis-Linux" height="100" width="100" src="https://githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
+  <img align="center" alt="MReis-AWS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="MReis-Airflow" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
   <img align="center" alt="MReis-Git" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MReis-GCP" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="MReis-Ansible" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
@@ -78,7 +78,6 @@ Welcome to my GitHub profile!
   <img align="center" alt="MReis-PostgreSQL" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <!--   <img align="center" alt="MReis-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> -->
   <img align="center" alt="MReis-Vim" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="MReis-Vim" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg">
 <!--   <img align="center" alt="MReis-Markdown" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"> -->
 <!--   <img align="center" alt="MReis-LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"> -->
 
